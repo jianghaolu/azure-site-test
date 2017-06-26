@@ -1,6 +1,9 @@
 {
   "name": "yugangw-web-app",
   "version": "1.0.0",
+  "engines": {
+    "node": ">=6.6"
+  },
   "dependencies": {
     "express": "^4.14.0"
   }
